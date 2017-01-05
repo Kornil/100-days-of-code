@@ -10,7 +10,7 @@
 
 ### Day 2: January 4, 2017
 
-**Today's Progress**: Progress on front-end of Pinterest clone, cannot input invalid images.
+**Today's Progress**: Progress on front-end of Pinterest clone, now accept only valid input in form.
 
 **Thoughts:** 5 min MDN > 2 hours stackoverflow, problem solving is better than bug fixing.
 
