@@ -15,3 +15,11 @@
 **Thoughts:** 5 min MDN > 2 hours stackoverflow, problem solving is better than bug fixing.
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Progress on api of Pinterest clone, delete button not finished.
+
+**Thoughts:** I could not finish what I wanted tonight but I learned a lot and tomorrow I will.
+
+**Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
