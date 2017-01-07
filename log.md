@@ -23,3 +23,11 @@
 **Thoughts:** I could not finish what I wanted tonight but I learned a lot and tomorrow I will.
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: delete button done and working, delete request get sent annd executed
+
+**Thoughts:** finally fixed the infernal bug, it was easier than expected.
+
+**Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
