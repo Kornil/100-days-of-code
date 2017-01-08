@@ -31,3 +31,11 @@
 **Thoughts:** finally fixed the infernal bug, it was easier than expected.
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
+
+### Day 54: January 7, 2017
+
+**Today's Progress**: delete request now works with req.params but does not reload the page
+
+**Thoughts:** as I should have done it from the beginning
+
+**Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
