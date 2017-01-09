@@ -32,10 +32,18 @@
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
 
-### Day 54: January 7, 2017
+### Day 5: January 7, 2017
 
 **Today's Progress**: delete request now works with req.params but does not reload the page
 
 **Thoughts:** as I should have done it from the beginning
+
+**Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: share button online and working on both front and back end
+
+**Thoughts:** after losing 2 days on the delete button this was a piece of cake
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
