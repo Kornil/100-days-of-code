@@ -47,3 +47,11 @@
 **Thoughts:** after losing 2 days on the delete button this was a piece of cake
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: simple like button api
+
+**Thoughts:** did not have much time to code but I still tried to progress a bit
+
+**Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
