@@ -63,3 +63,11 @@
 **Thoughts:** easier than imagined, I'm starting to understand how node, mongo and express blend together!
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: pinterest clone is done!
+
+**Thoughts:** really fun and interesting project to do, learned a lot.
+
+**Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
