@@ -56,7 +56,7 @@
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
 
-### Day 8: January 9, 2017
+### Day 8: January 10, 2017
 
 **Today's Progress**: like button api done
 
