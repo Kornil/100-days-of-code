@@ -55,3 +55,11 @@
 **Thoughts:** did not have much time to code but I still tried to progress a bit
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
+
+### Day 8: January 9, 2017
+
+**Today's Progress**: like button api done
+
+**Thoughts:** easier than imagined, I'm starting to understand how node, mongo and express blend together!
+
+**Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
