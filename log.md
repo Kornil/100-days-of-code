@@ -71,3 +71,11 @@
 **Thoughts:** really fun and interesting project to do, learned a lot.
 
 **Link to work:** [Pinterest Clone](https://github.com/Kornil/pinterest-clone)
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: started book-trading-club
+
+**Thoughts:** follower a guide to set up mongoose express and passport from 2013, how much coding changes every year..
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
