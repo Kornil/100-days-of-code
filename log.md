@@ -79,3 +79,11 @@
 **Thoughts:** follower a guide to set up mongoose express and passport from 2013, how much coding changes every year..
 
 **Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
+
+### Day 11: January 13, 2017
+
+**Today's Progress**: login and registration now works
+
+**Thoughts:** sometimes it's ok to not understand everything, just push and you'll eventually make it
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
