@@ -87,3 +87,11 @@
 **Thoughts:** sometimes it's ok to not understand everything, just push and you'll eventually make it
 
 **Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
+
+### Day 11: January 13, 2017
+
+**Today's Progress**: form for looking for books working
+
+**Thoughts:** I get lost on the easiest things sometimes
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
