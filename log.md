@@ -88,10 +88,18 @@
 
 **Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
 
-### Day 11: January 13, 2017
+### Day 12: January 14, 2017
 
 **Today's Progress**: form for looking for books working
 
 **Thoughts:** I get lost on the easiest things sometimes
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
+
+### Day 13: January 15, 2017
+
+**Today's Progress**: can now look and add book to collection, books from google books api
+
+**Thoughts:** the smallest bugs are the worst, cant find them cant fix them
 
 **Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
