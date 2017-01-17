@@ -103,3 +103,11 @@
 **Thoughts:** the smallest bugs are the worst, cant find them cant fix them
 
 **Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
+
+### Day 14: January 16, 2017
+
+**Today's Progress**: made front end on /profile
+
+**Thoughts:** a day without checking the logs every time I commit is a blessed day
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
