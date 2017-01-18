@@ -111,3 +111,11 @@
 **Thoughts:** a day without checking the logs every time I commit is a blessed day
 
 **Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
+
+### Day 15: January 17, 2017
+
+**Today's Progress**: improved front end on /profile, added delete button, fixed an error with google api links missing the s from http
+
+**Thoughts:** no matter how big the devs behind it, apis can be really bad.
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
