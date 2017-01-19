@@ -124,6 +124,6 @@
 
 **Today's Progress**: made a basic login for momentum, a google extension project
 
-**Thoughts:** looking backwards I've come a long way
+**Thoughts:** looking back, I've come a long way
 
 **Link to work:** [Momentum](https://github.com/EuKats/momentum-clone)
