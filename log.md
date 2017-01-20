@@ -127,3 +127,11 @@
 **Thoughts:** looking back, I've come a long way
 
 **Link to work:** [Momentum](https://github.com/EuKats/momentum-clone)
+
+### Day 17: January 19, 2017
+
+**Today's Progress**: organized a group to tackle momentum clone development, explained how the back end works and the quirks of my code to an eager couple of coders
+
+**Thoughts:** I was the one asking and now I'm the one answering
+
+**Link to work:** [Momentum](https://github.com/EuKats/momentum-clone)
