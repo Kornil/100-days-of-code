@@ -135,3 +135,11 @@
 **Thoughts:** I was the one asking and now I'm the one answering
 
 **Link to work:** [Momentum](https://github.com/EuKats/momentum-clone)
+
+### Day 18: January 20, 2017
+
+**Today's Progress**: added other user pages, made homepage, update on country/city in profile
+
+**Thoughts:** it's actually a lot of stuff 
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
