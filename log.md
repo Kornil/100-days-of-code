@@ -143,3 +143,11 @@
 **Thoughts:** it's actually a lot of stuff 
 
 **Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
+
+### Day 19: January 21, 2017
+
+**Today's Progress**: fixed inputs logic, added pm functionality(first draft)
+
+**Thoughts:** googling is really fast if you know what to google
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
