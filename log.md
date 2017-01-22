@@ -151,3 +151,11 @@
 **Thoughts:** googling is really fast if you know what to google
 
 **Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
+
+### Day 20: January 22, 2017
+
+**Today's Progress**: book trading club is now completed.
+
+**Thoughts:** second project in 20 days, not bad average.
+
+**Link to work:** [Book Trading Club](https://github.com/Kornil/book-trading-club)
