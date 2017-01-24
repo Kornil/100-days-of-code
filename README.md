@@ -1,10 +1,11 @@
 # I've joined the #100DaysOfCode Challenge.
 
 ## Contents
-* [Rules](rules.md)
-* Logs
+### Logs
 - [days_01-20](./logs/log_01-20.md)
 -  [days_01-20](./logs/log_01-20.md)
+<br>
+* [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
