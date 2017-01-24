@@ -2,7 +2,9 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* Logs
+- [days_01-20](./logs/log_01-20.md)
+-  [days_01-20](./logs/log_01-20.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
