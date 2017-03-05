@@ -5,6 +5,7 @@
   * [days_01-20](./logs/log_01-20.md)
   * [days_21-40](./logs/log_21-40.md)
   * [days_41-60](./logs/log_41-60.md)
+  * [days_61-80](./logs/log_61-80.md) 
 * [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
